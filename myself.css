@@ -177,7 +177,7 @@ span{
 }
 input{
     padding:10px 50px;
-    margin:0 435px;
+   
     border-radius: 3px;
     border:solid 0.5px sienna;
 }
@@ -195,7 +195,7 @@ textarea{
 .btn{
     background-color:sienna;
     color:#fef5e6;
-    margin:20px 515px;
+   
     font-size:15px;
     box-shadow:3px 3px rgba(69,34,9,0.3);
 }
@@ -211,6 +211,10 @@ textarea{
     top:3px;
     left:3px;
 
+}
+
+.name,.mail-ad,.submit-btn{
+    text-align: center;
 }
 footer{
     font-size: 35px;
