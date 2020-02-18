@@ -1,0 +1,230 @@
+
+.header{
+    background-color:#A0522D;
+    height:57px;
+    
+  
+    
+    
+}
+
+.header .logo{
+    font-size:26px;
+    float:left;
+    color:cornsilk;
+    padding:0 20px 20px 20px;
+    font-family:"Arial Black";
+    line-height: 15px;
+
+}
+
+.header ul{
+    padding-left:400px;
+   text-align:center;
+
+   
+}
+
+
+
+
+
+
+
+.header a{
+    color:rgba(255,248,220,1);
+    text-decoration: none;
+    display:inline-block;
+    float:left;
+    font-size :14px;
+    border:solid 1px cornsilk;
+    padding:10px 20px;
+   font-family:"Kosugi Maru", "sans-serif";
+   background-color:rgba(69,34,9,0.3);
+    margin:0 15px;
+    z-index:10;
+    border-radius: 4px;
+   
+    line-height:33px ;
+
+    
+}
+
+
+.header a:hover{
+    
+    cursor:pointer;
+    background-color:rgba(69,34,9,1);
+    
+  
+  
+}
+
+
+
+.top-image{
+    padding:120px 0;
+    background-image:url(trees-4843827_1280.jpg);
+    background-size:cover;
+    
+
+
+}
+
+.top-image h1{
+    color:cornsilk;
+    font-size:70px;
+    font-family:"Arial Black";
+    text-align: center;
+    letter-spacing:4px;
+    opacity:0.8;
+ 
+}
+
+
+.self-intro{
+      height:600px;
+      background-color: #FDF5E6;
+      padding:50px 30px;
+      color: sienna;
+
+}
+
+
+h2{
+    text-align: center;
+    font-size:40px;
+    font-family:"Arial Black";
+    color:sienna;
+    border-bottom:solid 2px sienna;
+    letter-spacing:10px;
+
+}
+
+.self-intro img{
+    float:left
+    
+
+}
+
+.self-intro h3{
+    font-family:"Arial Black";
+    
+    text-align: center;
+  
+    
+}
+.self-intro p{
+    float:right;
+    width: 65%;
+   padding-right:70px;
+    font-size:17px;
+    font-family:Arial;
+    letter-spacing: 0.5px;    
+ 
+}
+
+.self-intro-top{
+    padding:1px;
+}
+
+span{
+    font-family:"Arial Black";
+
+}
+
+.work{
+    height:400px;
+    background-color: #FDF5E6;
+    padding:30px 50px;
+    color: sienna;
+
+}
+
+
+
+.work-history{
+  padding:0 260px;
+  font-family:Arial;
+
+
+}
+
+.fgn{
+    height:400px;
+    
+    background-color: #FDF5E6 ;
+    color:sienna;
+    padding:30px 50px;
+    font-family:Arial;
+   
+}
+
+.fgn-history{
+    padding:0 260px;
+}
+.contact-form{
+    height:600px;
+    padding:30px 50px;
+    background-color: #FDF5E6 ;
+
+}
+.contact-form p{
+    font-family:"Arial Black";
+    font-size:20px;
+    text-align:center;
+    color: sienna;
+}
+input{
+    padding:10px 50px;
+    margin:0 435px;
+    border-radius: 3px;
+    border:solid 0.5px sienna;
+}
+
+
+
+textarea{
+    margin:0 285px;
+    
+    font-size: 15px;
+    border-radius: 3px;
+    border:solid 0.5px sienna;
+
+}
+.btn{
+    background-color:sienna;
+    color:#fef5e6;
+    margin:20px 515px;
+    font-size:15px;
+    box-shadow:3px 3px rgba(69,34,9,0.3);
+}
+.btn:hover{
+    background-color:rgb(121, 62, 34);
+    cursor: pointer;
+
+}
+
+.btn:active{
+    box-shadow:none;
+    position: relative;
+    top:3px;
+    left:3px;
+
+}
+footer{
+    font-size: 35px;
+    padding:40px 0;
+    height:50px;
+    background-color:#A0522D;
+    color:#fef5e6;
+    font-family:"Arial Black";
+    text-align: center;
+    line-height: 5px;
+   
+   
+}
+
+footer p{
+    float:right;
+}
