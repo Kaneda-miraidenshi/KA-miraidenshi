@@ -1,0 +1,87 @@
+@media all and (max-width:1000px){
+       
+      .top-image h1{
+          font-size:44px;
+      }
+      span{
+        font-family:"Arial Black";
+    
+    }
+
+     .self-intro,.work,.fgn,.contact-form p{
+          font-size:13px;
+         
+      }
+      .self-intro{
+         text-align:center;
+
+      }
+      h2{font-size:25px
+
+      }
+      input{
+        padding:10px 30px;
+    }
+    .btn{
+        padding:8px 25px;
+        margin-top:15px;
+    }
+    .header a{
+        display:none;
+
+    }
+    .menu-icon{
+        display:block;
+    }
+     .fgn{
+         height:350px;
+     } 
+     
+}
+
+@media all and (max-width:700px)
+{
+    .top-image h1{
+        font-size:30px;
+    }
+    
+    
+    .self-intro,.work,.fgn,.contact-form p{
+        font-size:9.5px;
+       
+    }
+    h2{font-size:20px
+
+    }
+
+
+}
+
+@media all and (max-width:400px){
+    .top-image h1{
+        font-size:20px;
+    }
+    
+    
+    .self-intro,.work,.fgn,.contact-form p{
+        font-size:7.5px;
+       
+    }
+    h2{font-size:15px
+
+    }
+
+    .fgn{
+        height:250px;
+    } 
+    input{
+        padding:7px 10px;
+
+    }
+    .menu-icon{
+       
+        font-size: 30px;
+        padding:16px 15px;
+      
+    
+}
