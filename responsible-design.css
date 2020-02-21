@@ -26,13 +26,7 @@
         padding:8px 25px;
         margin-top:15px;
     }
-    .header a{
-        display:none;
-
-    }
-    .menu-icon{
-        display:block;
-    }
+    
      .fgn{
          height:350px;
      } 
@@ -52,6 +46,13 @@
     }
     h2{font-size:20px
 
+    }
+    .header a{
+        display:none;
+
+    }
+    .menu-icon{
+        display:block;
     }
 
 
