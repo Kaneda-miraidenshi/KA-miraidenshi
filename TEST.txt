@@ -12,6 +12,6 @@
 <body>
 
 <h1>TEST</h1>
-<h2>how to use Git?<h2/>
+<h2>how to use Git??<h2/>
   </body>
 </html>
